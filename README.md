@@ -8,7 +8,8 @@ Using an Arduino with Wifi, we can connect to a real-time WebSocket crypto feed 
 Flip Digits are 7-segment numbers that use small permanent magnetics to flip the segment on/off. Powered by a small electromagnetic to flip it retains its state even after power is disconnected. Read this if you'd like to [know more](https://flipdots.com/en/electromagnetic-flip-disc-technology-how-it-works/).
 
 ## Watch & listen
-[![Video of FlipDigit tracker](imgs/FlipDigitTracker.gif)](https://www.twitter.com/motus_art)
+[![Video of FlipDigit tracker](imgs/FlipDigitTracker.gif)](https://twitter.com/motus_art/status/1461004092424310790)  
+*recorded 17.11.2021*
 
 ## Equipment
 - FlipDigit 7x4 display from [AlfaZeta flipdots.com](https://flipdots.com/)
